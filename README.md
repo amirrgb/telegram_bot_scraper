@@ -1,0 +1,2 @@
+# telegram_bot_scraper
+This Telegram account application project involves scraping data from channels and groups, including details about members and chats. By collecting this data, the application enables users to gain insights and analytics on their Telegram channels and groups, allowing for informed decision-making and improved engagement with their audience. The data can be analyzed and processed to generate useful metrics and visualizations, facilitating better management and optimization of the channels and groups.
